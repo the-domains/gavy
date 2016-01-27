@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Gavy]]></title>
+        <description><![CDATA[Gavy]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 27 Jan 2016 17:58:24 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Officiants]]></title>
+            <description><![CDATA[<article><h1>Officiants</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c5a8d4d4b6b90c13425e1bdfd40a6a8de7c5fde.jpg"></article>]]></description>
+            <link>undefinedofficiants/index.html</link>
+            <guid isPermaLink="false">67419b3e-17b3-4e77-a8c5-e55ac445619a</guid>
+            <pubDate>Wed, 27 Jan 2016 17:57:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
